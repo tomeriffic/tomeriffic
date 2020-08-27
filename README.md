@@ -10,23 +10,25 @@
 A huge desire to learn further, progress, and step up to every opportunity presented. Working at Glasswall I have worked as a Junior Core Developer for 2 years rising to challenges at SRE. Taking opportunities such as leading a squad for projects and developing prototype products during spare time. I have experienced companies in the crowdfunding phase such as Edge of Belgravia leading to a successful campaign to having short term experiences with Societe Generale, Accenture. Outside of technology, I have run a campaign representing the Liberal Democrats for my Council and made a gain of 3.1%.
 
 # PROFESSIONAL EXPERIENCE
-### 04/20 – Current	Glasswall Solutions					Site Reliability Engineer
-Developing Playbooks | Primary on Call | Simulated Chaos | Automating Toil | Implementing Pipelines | Monitoring and Dashboards | IaC | Consulting with DevOps engineers on production best practises.
+### Glasswall Solutions					
+- Site Reliability Engineer
+- Software Developer - Core
+- Junior Software Developer – Core
 
-### 02/20 – Current	Glasswall Solutions					Software Developer - Core
-Developing in C/C++, C#, Python | Fixing Bugs and extending functionality in the core product and inhouse tools | Developed a statistical approach in validating PDF files against specification | Working in C to extend and expand legacy CLI tools.
+### Société Générale Corporate & Investment Banking
+Execution Product – CD
 
-### 07/17 – 02/20 	Glasswall Solutions					Junior Software Developer – Core
-Architected the Dirty Word Search Engine in a team of 2 | Developed Security Tagging for Office Files | Developed an interpreter and code generator to generate rules in validating PDF Files | Developing DSL and in-house code generator | Developed code to search for bad structures, sanitize and recognise non-conforming files (Bitmap, TIFF, Mach-O, PE, ELF, MP4, MPEG2)  | Experience leading the core team test framework squad of 5 to achieve a product to test and verify product functionality | QT
+### Liberal Democrats
+Council Candidate
 
-### 07/18 – 09/18	Société Générale Corporate & Investment Banking		Execution Product – CDO
-Developing prototype trade execution platforms | Demonstrated a Fixed Income Tool designed, developed myself to the Head of Trade Execution Platforms | Designed and developed a multi-instrument tool used by sales staff to place FX orders, RFQ’s, structured products and more | Developed structural code for the IT/Development team to use when creating the release product | Passed compliance training
+### Accenture
+Tech Visionary
 
-## Past:
-02/19 Liberal Democrats		Council Candidate
-12/18	Accenture			Tech Visionary
-09/15 – 07/17	KAI Consulting			Trainee Support and QA Analyst
-06/15 – 08/15	Camp Kweebec			Camp Counsellor / Ropes Staff
+### KAI Consulting
+Trainee Support and QA Analyst
+
+### Camp Kweebec
+Camp Counsellor / Ropes Staff
 
 # ACHIEVEMENTS
 7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall.
