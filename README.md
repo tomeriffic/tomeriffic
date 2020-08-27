@@ -16,19 +16,19 @@ A huge desire to learn further, progress, and step up to every opportunity prese
 - Junior Software Developer – Core
 
 ### Société Générale Corporate & Investment Banking
-Execution Product – CD
+- Execution Product – CD
 
 ### Liberal Democrats
-Council Candidate
+- Council Candidate
 
 ### Accenture
-Tech Visionary
+- Tech Visionary
 
 ### KAI Consulting
-Trainee Support and QA Analyst
+- Trainee Support and QA Analyst
 
 ### Camp Kweebec
-Camp Counsellor / Ropes Staff
+- Camp Counsellor / Ropes Staff
 
 # ACHIEVEMENTS
 7 Medium Publications | 5 Open Sourced Projects | Presenting at the Open Security Summit 2020 | 2 MVP’s at Glasswall.
